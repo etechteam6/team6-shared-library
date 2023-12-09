@@ -1,4 +1,4 @@
-def uber (string repoUrl){
+def uber(String repoUrl){
     pipeline{
         agent any 
         stages{
