@@ -15,7 +15,7 @@ def call(String repoUrl){
             }
             stage('closing'){
              steps{
-                echo "new demo"
+                echo "newer demo"
              }
             }
         }
